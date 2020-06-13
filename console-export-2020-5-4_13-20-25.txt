@@ -1,0 +1,438 @@
+13:04:03.573 Unchecked lastError value: Error: Could not establish connection. Receiving end does not exist. 42 background.js:64
+13:06:36.365 Unchecked lastError value: Error: Could not establish connection. Receiving end does not exist. 2 background.js:72
+13:06:38.480 Unchecked lastError value: Error: Could not establish connection. Receiving end does not exist. background.js:64
+13:06:38.522 Unchecked lastError value: Error: Could not establish connection. Receiving end does not exist. background.js:72
+13:06:39.067 Unchecked lastError value: Error: Could not establish connection. Receiving end does not exist. 26 background.js:64
+13:06:41.038 Unchecked lastError value: Error: Could not establish connection. Receiving end does not exist. background.js:72
+13:06:41.072 Unchecked lastError value: Error: Could not establish connection. Receiving end does not exist. 8 background.js:64
+13:06:41.394 Unchecked lastError value: Error: Could not establish connection. Receiving end does not exist. background.js:72
+13:06:41.396 Unchecked lastError value: Error: Could not establish connection. Receiving end does not exist. 8 background.js:64
+13:06:41.669 Unchecked lastError value: Error: Could not establish connection. Receiving end does not exist. background.js:72
+13:06:41.691 Unchecked lastError value: Error: Could not establish connection. Receiving end does not exist. 2 background.js:64
+13:06:42.174 Unchecked lastError value: Error: Could not establish connection. Receiving end does not exist. background.js:72
+13:06:43.272 Unchecked lastError value: Error: Could not establish connection. Receiving end does not exist. 54 background.js:64
+13:11:28.443 Unchecked lastError value: Error: Could not establish connection. Receiving end does not exist. 3 background.js:72
+13:11:29.475 Unchecked lastError value: Error: Could not establish connection. Receiving end does not exist. 13 background.js:64
+13:11:47.742 Unchecked lastError value: Error: Could not establish connection. Receiving end does not exist. background.js:72
+13:11:47.961 Unchecked lastError value: Error: Could not establish connection. Receiving end does not exist. 21 background.js:64
+13:11:54.045 Unchecked lastError value: Error: Could not establish connection. Receiving end does not exist. 2 background.js:72
+13:11:58.184 Unchecked lastError value: Error: Could not establish connection. Receiving end does not exist. background.js:64
+13:11:58.220 Unchecked lastError value: Error: Could not establish connection. Receiving end does not exist. background.js:72
+13:11:58.418 Unchecked lastError value: Error: Could not establish connection. Receiving end does not exist. 19 background.js:64
+13:12:02.126 Unchecked lastError value: Error: Could not establish connection. Receiving end does not exist. 15 background.js:72
+13:13:45.862 Unchecked lastError value: Error: Could not establish connection. Receiving end does not exist. 2 background.js:72
+13:14:19.269 Unchecked lastError value: Error: Could not establish connection. Receiving end does not exist. 2 background.js:64
+13:14:31.673 Webconsole context has changed
+13:14:31.713 Error: Can't find profile directory. XULStore.jsm:66:15
+13:14:36.442 Unchecked lastError value: Error: Could not establish connection. Receiving end does not exist. 8 background.js:72
+13:15:14.494 Unchecked lastError value: Error: Could not establish connection. Receiving end does not exist. background.js:64
+13:15:19.741 Unchecked lastError value: Error: Could not establish connection. Receiving end does not exist. 4 background.js:72
+13:17:05.776 Unchecked lastError value: Error: Could not establish connection. Receiving end does not exist. background.js:64
+13:18:35.233 updateCitation citethis.js:formatted:352
+13:18:35.244 _setPageVariables citethis.js:formatted:427
+13:18:35.246 got last accessed 2 citethis.js:formatted:496
+13:18:35.248 No host available citethis.js:formatted:501
+13:18:35.249 no domain available citethis.js:formatted:505
+13:18:35.249 set page variables with opts citethis.js:formatted:415
+13:18:35.249
+Object { year: 2020, accessed: "May 04, 2020", updated: "May 04, 2020", author: null, title: "Add-ons Manager", url: "about:addons" }
+citethis.js:formatted:417
+13:18:35.250 Get citation using style: apa citethis.js:formatted:444
+13:18:35.251 Generated citation... citethis.js:formatted:435
+13:18:35.265 executed content script citethis.js:formatted:399
+13:18:35.452 update is already pending 3 citethis.js:formatted:347
+13:18:36.243 updateCitation complete citethis.js:formatted:362
+13:18:36.249 _setPageVariables citethis.js:formatted:427
+13:18:36.249 got last accessed 2 citethis.js:formatted:496
+13:18:36.251
+Object { what: "Calling site specific func", funcName: "getTitle", tab: {…} }
+citethis.js:formatted:469
+13:18:36.252 set page variables with opts citethis.js:formatted:415
+13:18:36.252
+Object { year: 2020, accessed: "May 04, 2020", updated: "May 04, 2020", author: null, title: "Usability testing", url: "https://en.wikipedia.org/wiki/Usability_testing" }
+citethis.js:formatted:417
+13:18:36.252 Get citation using style: apa citethis.js:formatted:444
+13:18:36.252 Generated citation... citethis.js:formatted:435
+13:18:36.426
+Object { what: "Got fields from execute script", fields: {…} }
+citethis.js:formatted:212
+13:18:36.426 got last accessed 2 citethis.js:formatted:496
+13:18:36.427 set page variables with opts citethis.js:formatted:415
+13:18:36.427
+Object { year: 2020, accessed: "May 04, 2020", updated: "May 04, 2020", author: "", url: "https://en.wikipedia.org/wiki/Usability_testing", title: "Usability testing - Wikipedia" }
+citethis.js:formatted:417
+13:18:36.427 Get citation using style: apa citethis.js:formatted:444
+13:18:36.427 fields citethis.js:formatted:215
+13:18:36.440 executed content script citethis.js:formatted:399
+13:18:37.212 updateCitation citethis.js:formatted:352
+13:18:37.213 updateCitation complete citethis.js:formatted:362
+13:18:37.218 updateCitation citethis.js:formatted:352
+13:18:37.220 updateCitation complete citethis.js:formatted:362
+13:18:37.237 updateCitation citethis.js:formatted:352
+13:18:37.250 _setPageVariables citethis.js:formatted:427
+13:18:37.250 got last accessed 2 citethis.js:formatted:496
+13:18:37.251 no domain available citethis.js:formatted:505
+13:18:37.252 set page variables with opts citethis.js:formatted:415
+13:18:37.252
+Object { year: 2020, accessed: "May 04, 2020", updated: "May 04, 2020", author: null, title: "Debugging - Runtime / this-firefox", url: "about:debugging#/runtime/this-firefox" }
+citethis.js:formatted:417
+13:18:37.252 Get citation using style: apa citethis.js:formatted:444
+13:18:37.253 Generated citation... citethis.js:formatted:435
+13:18:37.303 executed content script citethis.js:formatted:399
+13:18:38.238 update is already pending citethis.js:formatted:347
+13:18:38.240 updateCitation complete citethis.js:formatted:362
+13:18:38.329 updateCitation citethis.js:formatted:352
+13:18:38.329 updateCitation complete citethis.js:formatted:362
+13:18:38.331 updateCitation citethis.js:formatted:352
+13:18:38.332 updateCitation complete citethis.js:formatted:362
+13:18:38.333 updateCitation citethis.js:formatted:352
+13:18:38.334 updateCitation complete citethis.js:formatted:362
+13:18:38.336 updateCitation citethis.js:formatted:352
+13:18:38.336 updateCitation complete citethis.js:formatted:362
+13:18:38.340 updateCitation citethis.js:formatted:352
+13:18:38.340 updateCitation complete citethis.js:formatted:362
+13:18:38.348 _setPageVariables citethis.js:formatted:427
+13:18:38.348 got last accessed 2 citethis.js:formatted:496
+13:18:38.348 No host available citethis.js:formatted:501
+13:18:38.348 no domain available citethis.js:formatted:505
+13:18:38.349 set page variables with opts citethis.js:formatted:415
+13:18:38.349
+Object { year: 2020, accessed: "May 04, 2020", updated: "May 04, 2020", author: null, title: "New Tab", url: "about:blank" }
+citethis.js:formatted:417
+13:18:38.349 Get citation using style: apa citethis.js:formatted:444
+13:18:38.349 Generated citation... citethis.js:formatted:435
+13:18:38.367 updateCitation citethis.js:formatted:352
+13:18:38.367 updateCitation complete citethis.js:formatted:362
+13:18:38.382 updateCitation citethis.js:formatted:352
+13:18:38.382 updateCitation complete citethis.js:formatted:362
+13:18:38.389 _setPageVariables citethis.js:formatted:427
+13:18:38.389 got last accessed 2 citethis.js:formatted:496
+13:18:38.390 No host available citethis.js:formatted:501
+13:18:38.390 no domain available citethis.js:formatted:505
+13:18:38.390 set page variables with opts citethis.js:formatted:415
+13:18:38.390
+Object { year: 2020, accessed: "May 04, 2020", updated: "May 04, 2020", author: null, title: "about:devtools-toolbox?type=extension&id=760a5cc6fac33adf33634c3cb3a6c2b9a46ac531%40temporary-addon", url: "about:devtools-toolbox?type=extension&id=760a5cc6fac33adf33634c3cb3a6c2b9a46ac531%40temporary-addon" }
+citethis.js:formatted:417
+13:18:38.390 Get citation using style: apa citethis.js:formatted:444
+13:18:38.390 Generated citation... citethis.js:formatted:435
+13:18:38.400 updateCitation citethis.js:formatted:352
+13:18:38.401 updateCitation complete citethis.js:formatted:362
+13:18:38.407 Unchecked lastError value: Error: Could not establish connection. Receiving end does not exist. background.js:72
+13:18:38.419 executed content script 2 citethis.js:formatted:399
+13:18:38.444 updateCitation citethis.js:formatted:352
+13:18:38.445 updateCitation complete citethis.js:formatted:362
+13:18:38.453 updateCitation citethis.js:formatted:352
+13:18:38.454 updateCitation complete citethis.js:formatted:362
+13:18:38.613 updateCitation citethis.js:formatted:352
+13:18:38.614 updateCitation complete citethis.js:formatted:362
+13:18:38.694 Unchecked lastError value: Error: Could not establish connection. Receiving end does not exist. 2 background.js:72
+13:18:39.238 updateCitation citethis.js:formatted:352
+13:18:40.244 updateCitation complete citethis.js:formatted:362
+13:18:41.595 updateCitation citethis.js:formatted:352
+13:18:41.597 updateCitation complete citethis.js:formatted:362
+13:18:41.606 updateCitation citethis.js:formatted:352
+13:18:41.610 updateCitation complete citethis.js:formatted:362
+13:18:41.632 _setPageVariables citethis.js:formatted:427
+13:18:41.633 got last accessed 2 citethis.js:formatted:496
+13:18:41.636
+Object { what: "Calling site specific func", funcName: "getTitle", tab: {…} }
+citethis.js:formatted:469
+13:18:41.639 set page variables with opts citethis.js:formatted:415
+13:18:41.640
+Object { year: 2020, accessed: "May 04, 2020", updated: "May 04, 2020", author: null, title: "Usability testing", url: "https://en.wikipedia.org/wiki/Usability_testing" }
+citethis.js:formatted:417
+13:18:41.641 Get citation using style: apa citethis.js:formatted:444
+13:18:41.642 Generated citation... citethis.js:formatted:435
+13:18:41.663
+Object { what: "Got fields from execute script", fields: {…} }
+citethis.js:formatted:212
+13:18:41.664 got last accessed 2 citethis.js:formatted:496
+13:18:41.664 set page variables with opts citethis.js:formatted:415
+13:18:41.664
+Object { year: 2020, accessed: "May 04, 2020", updated: "May 04, 2020", author: "", url: "https://en.wikipedia.org/wiki/Usability_testing", title: "Usability testing - Wikipedia" }
+citethis.js:formatted:417
+13:18:41.665 Get citation using style: apa citethis.js:formatted:444
+13:18:41.665 fields citethis.js:formatted:215
+13:18:41.666 executed content script citethis.js:formatted:399
+13:18:42.245 updateCitation citethis.js:formatted:352
+13:18:43.251 updateCitation complete citethis.js:formatted:362
+13:18:43.723 citation style changed to bibtex citethis.js:formatted:291
+13:18:43.724 updateCitation citethis.js:formatted:352
+13:18:44.639 update is already pending 2 citethis.js:formatted:347
+13:18:44.727 updateCitation complete citethis.js:formatted:362
+13:18:44.739 _setPageVariables citethis.js:formatted:427
+13:18:44.739 got last accessed 2 citethis.js:formatted:496
+13:18:44.740 No host available citethis.js:formatted:501
+13:18:44.743 no domain available citethis.js:formatted:505
+13:18:44.744 set page variables with opts citethis.js:formatted:415
+13:18:44.744
+Object { year: 2020, accessed: "May 04, 2020", updated: "May 04, 2020", author: null, title: "Toolbox - Extension / Cite This", url: "about:devtools-toolbox?type=extension&id=760a5cc6fac33adf33634c3cb3a6c2b9a46ac531%40temporary-addon" }
+citethis.js:formatted:417
+13:18:44.746 Get citation using style: bibtex citethis.js:formatted:444
+13:18:44.750 Error: Source lacks all required BibTex data: author, year, journal citethis.js:formatted:478
+13:18:44.766 executed content script citethis.js:formatted:399
+13:18:45.250 updateCitation citethis.js:formatted:352
+13:18:46.255 updateCitation complete citethis.js:formatted:362
+13:18:48.538 Unchecked lastError value: Error: Could not establish connection. Receiving end does not exist. 2 background.js:72
+13:19:13.824 updateCitation citethis.js:formatted:352
+13:19:13.828 updateCitation complete citethis.js:formatted:362
+13:19:13.836 updateCitation citethis.js:formatted:352
+13:19:13.839 updateCitation complete citethis.js:formatted:362
+13:19:13.867 _setPageVariables citethis.js:formatted:427
+13:19:13.869 got last accessed 2 citethis.js:formatted:496
+13:19:13.871 no domain available citethis.js:formatted:505
+13:19:13.874 set page variables with opts citethis.js:formatted:415
+13:19:13.875
+Object { year: 2020, accessed: "May 04, 2020", updated: "May 04, 2020", author: null, title: "Debugging - Runtime / this-firefox", url: "about:debugging#/runtime/this-firefox" }
+citethis.js:formatted:417
+13:19:13.877 Get citation using style: bibtex citethis.js:formatted:444
+13:19:13.878 Error: Source lacks all required BibTex data: author, year, journal citethis.js:formatted:478
+13:19:13.901 executed content script citethis.js:formatted:399
+13:19:14.311 updateCitation citethis.js:formatted:352
+13:19:15.315 updateCitation complete citethis.js:formatted:362
+13:19:16.562 Navigated to about:blank
+13:19:15.511 Webconsole context has changed
+13:19:15.593 Error: Can't find profile directory. XULStore.jsm:66:15
+13:19:16.563 Navigated to moz-extension://69cbe939-dc1b-4004-ae0d-299a2d03acc9/sidebar/panel.html
+13:19:15.785 Webconsole context has changed
+13:19:15.853 updateCitation citethis.js:formatted:352
+13:19:15.876 _setPageVariables citethis.js:formatted:427
+13:19:15.876 got last accessed 2 citethis.js:formatted:496
+13:19:15.879 no domain available citethis.js:formatted:505
+13:19:15.880 set page variables with opts citethis.js:formatted:415
+13:19:15.880
+Object { year: 2020, accessed: "May 04, 2020", updated: "May 04, 2020", author: null, title: "Debugging - Runtime / this-firefox", url: "about:debugging#/runtime/this-firefox" }
+citethis.js:formatted:417
+13:19:15.882 Get citation using style: apa citethis.js:formatted:444
+13:19:15.883 Generated citation... citethis.js:formatted:435
+13:19:15.886 executed content script citethis.js:formatted:399
+13:19:16.523 update is already pending 3 citethis.js:formatted:347
+13:19:16.867 updateCitation complete citethis.js:formatted:362
+13:19:16.901 _setPageVariables citethis.js:formatted:427
+13:19:16.901 got last accessed 2 citethis.js:formatted:496
+13:19:16.902 No host available citethis.js:formatted:501
+13:19:16.902 no domain available citethis.js:formatted:505
+13:19:16.903 set page variables with opts citethis.js:formatted:415
+13:19:16.903
+Object { year: 2020, accessed: "May 04, 2020", updated: "May 04, 2020", author: null, title: "Toolbox - Extension / Cite This", url: "about:devtools-toolbox?type=extension&id=760a5cc6fac33adf33634c3cb3a6c2b9a46ac531%40temporary-addon" }
+citethis.js:formatted:417
+13:19:16.904 Get citation using style: apa citethis.js:formatted:444
+13:19:16.904 Generated citation... citethis.js:formatted:435
+13:19:16.919 executed content script citethis.js:formatted:399
+13:19:17.855 updateCitation citethis.js:formatted:352
+13:19:18.946 Navigated to chrome://devtools/content/shared/webextension-fallback.html
+13:19:18.850 Webconsole context has changed
+13:19:22.232 Navigated to moz-extension://69cbe939-dc1b-4004-ae0d-299a2d03acc9/sidebar/panel.html
+13:19:21.658 Webconsole context has changed
+13:19:21.685 updateCitation citethis.js:formatted:352
+13:19:21.707 _setPageVariables citethis.js:formatted:427
+13:19:21.708 got last accessed 2 citethis.js:formatted:496
+13:19:21.709
+Object { what: "Calling site specific func", funcName: "getTitle", tab: {…} }
+citethis.js:formatted:469
+13:19:21.711 set page variables with opts citethis.js:formatted:415
+13:19:21.711
+Object { year: 2020, accessed: "May 04, 2020", updated: "May 04, 2020", author: null, title: "Usability testing", url: "https://en.wikipedia.org/wiki/Usability_testing" }
+citethis.js:formatted:417
+13:19:21.712 Get citation using style: apa citethis.js:formatted:444
+13:19:21.713 Generated citation... citethis.js:formatted:435
+13:19:21.729
+Object { what: "Got fields from execute script", fields: {…} }
+citethis.js:formatted:212
+13:19:21.730 got last accessed 2 citethis.js:formatted:496
+13:19:21.731 set page variables with opts citethis.js:formatted:415
+13:19:21.732
+Object { year: 2020, accessed: "May 04, 2020", updated: "May 04, 2020", author: "", url: "https://en.wikipedia.org/wiki/Usability_testing", title: "Usability testing - Wikipedia" }
+citethis.js:formatted:417
+13:19:21.733 Get citation using style: apa citethis.js:formatted:444
+13:19:21.734 fields citethis.js:formatted:215
+13:19:21.747 executed content script citethis.js:formatted:399
+13:19:22.125 update is already pending 3 citethis.js:formatted:347
+13:19:22.693 updateCitation complete citethis.js:formatted:362
+13:19:22.741 _setPageVariables citethis.js:formatted:427
+13:19:22.741 got last accessed 2 citethis.js:formatted:496
+13:19:22.743 No host available citethis.js:formatted:501
+13:19:22.744 no domain available citethis.js:formatted:505
+13:19:22.744 set page variables with opts citethis.js:formatted:415
+13:19:22.744
+Object { year: 2020, accessed: "May 04, 2020", updated: "May 04, 2020", author: null, title: "Toolbox - Extension / Cite This", url: "about:devtools-toolbox?type=extension&id=760a5cc6fac33adf33634c3cb3a6c2b9a46ac531%40temporary-addon" }
+citethis.js:formatted:417
+13:19:22.746 Get citation using style: apa citethis.js:formatted:444
+13:19:22.746 Generated citation... citethis.js:formatted:435
+13:19:22.841 executed content script citethis.js:formatted:399
+13:19:23.687 updateCitation citethis.js:formatted:352
+13:19:24.697 updateCitation complete citethis.js:formatted:362
+13:19:25.760 updateCitation citethis.js:formatted:352
+13:19:25.764 updateCitation complete citethis.js:formatted:362
+13:19:25.773 updateCitation citethis.js:formatted:352
+13:19:25.776 updateCitation complete citethis.js:formatted:362
+13:19:25.794 _setPageVariables citethis.js:formatted:427
+13:19:25.795 got last accessed 2 citethis.js:formatted:496
+13:19:25.799 no domain available citethis.js:formatted:505
+13:19:25.800 set page variables with opts citethis.js:formatted:415
+13:19:25.803
+Object { year: 2020, accessed: "May 04, 2020", updated: "May 04, 2020", author: null, title: "Debugging - Runtime / this-firefox", url: "about:debugging#/runtime/this-firefox" }
+citethis.js:formatted:417
+13:19:25.808 Get citation using style: apa citethis.js:formatted:444
+13:19:25.809 Generated citation... citethis.js:formatted:435
+13:19:25.825 executed content script citethis.js:formatted:399
+13:19:26.467 updateCitation citethis.js:formatted:352
+13:19:26.469 updateCitation complete citethis.js:formatted:362
+13:19:26.475 updateCitation citethis.js:formatted:352
+13:19:26.477 updateCitation complete citethis.js:formatted:362
+13:19:26.510 _setPageVariables citethis.js:formatted:427
+13:19:26.511 got last accessed 2 citethis.js:formatted:496
+13:19:26.515 No host available citethis.js:formatted:501
+13:19:26.516 no domain available citethis.js:formatted:505
+13:19:26.517 set page variables with opts citethis.js:formatted:415
+13:19:26.518
+Object { year: 2020, accessed: "May 04, 2020", updated: "May 04, 2020", author: null, title: "Toolbox - Extension / Cite This", url: "about:devtools-toolbox?type=extension&id=760a5cc6fac33adf33634c3cb3a6c2b9a46ac531%40temporary-addon" }
+citethis.js:formatted:417
+13:19:26.523 Get citation using style: apa citethis.js:formatted:444
+13:19:26.525 Generated citation... citethis.js:formatted:435
+13:19:26.549 executed content script citethis.js:formatted:399
+13:19:28.689 citation style changed to bibtex citethis.js:formatted:291
+13:19:28.690 updateCitation citethis.js:formatted:352
+13:19:29.697 updateCitation complete citethis.js:formatted:362
+13:19:29.703 _setPageVariables citethis.js:formatted:427
+13:19:29.704 got last accessed 2 citethis.js:formatted:496
+13:19:29.707 No host available citethis.js:formatted:501
+13:19:29.708 no domain available citethis.js:formatted:505
+13:19:29.709 set page variables with opts citethis.js:formatted:415
+13:19:29.710
+Object { year: 2020, accessed: "May 04, 2020", updated: "May 04, 2020", author: null, title: "Toolbox - Extension / Cite This", url: "about:devtools-toolbox?type=extension&id=760a5cc6fac33adf33634c3cb3a6c2b9a46ac531%40temporary-addon" }
+citethis.js:formatted:417
+13:19:29.713 Get citation using style: bibtex citethis.js:formatted:444
+13:19:29.715 false false citethis.js:formatted:244
+13:19:29.716
+Object { author: "", year: "2020", title: "Toolbox - Extension / Cite This", url: "about:devtools-toolbox?type=extension&id=760a5cc6fac33adf33634c3cb3a6c2b9a46ac531%40temporary-addon", lastAccessed: "May 04, 2020", lastUpdated: "May 04, 2020" }
+citethis.js:formatted:244
+13:19:29.725 Error: Source lacks all required BibTex data: author, year, journal citethis.js:formatted:478
+13:19:29.736 executed content script citethis.js:formatted:399
+13:19:30.449 updateCitation citethis.js:formatted:352
+13:19:30.451 updateCitation complete citethis.js:formatted:362
+13:19:30.458 updateCitation citethis.js:formatted:352
+13:19:30.461 updateCitation complete citethis.js:formatted:362
+13:19:30.496 _setPageVariables citethis.js:formatted:427
+13:19:30.497 got last accessed 2 citethis.js:formatted:496
+13:19:30.498 no domain available citethis.js:formatted:505
+13:19:30.499 set page variables with opts citethis.js:formatted:415
+13:19:30.499
+Object { year: 2020, accessed: "May 04, 2020", updated: "May 04, 2020", author: null, title: "Debugging - Runtime / this-firefox", url: "about:debugging#/runtime/this-firefox" }
+citethis.js:formatted:417
+13:19:30.500 Get citation using style: bibtex citethis.js:formatted:444
+13:19:30.501 false false citethis.js:formatted:244
+13:19:30.501
+Object { author: "", year: "2020", title: "Debugging - Runtime / this-firefox", url: "about:debugging#/runtime/this-firefox", lastAccessed: "May 04, 2020", lastUpdated: "May 04, 2020" }
+citethis.js:formatted:244
+13:19:30.510 Error: Source lacks all required BibTex data: author, year, journal citethis.js:formatted:478
+13:19:30.530 executed content script citethis.js:formatted:399
+13:19:30.702 updateCitation citethis.js:formatted:352
+13:19:31.709 updateCitation complete citethis.js:formatted:362
+13:19:31.727 updateCitation citethis.js:formatted:352
+13:19:31.729 updateCitation complete citethis.js:formatted:362
+13:19:31.734 updateCitation citethis.js:formatted:352
+13:19:31.735 updateCitation complete citethis.js:formatted:362
+13:19:31.851 _setPageVariables citethis.js:formatted:427
+13:19:31.852 got last accessed 2 citethis.js:formatted:496
+13:19:31.853 No host available citethis.js:formatted:501
+13:19:31.853 no domain available citethis.js:formatted:505
+13:19:31.853 set page variables with opts citethis.js:formatted:415
+13:19:31.853
+Object { year: 2020, accessed: "May 04, 2020", updated: "May 04, 2020", author: null, title: "Toolbox - Extension / Cite This", url: "about:devtools-toolbox?type=extension&id=760a5cc6fac33adf33634c3cb3a6c2b9a46ac531%40temporary-addon" }
+citethis.js:formatted:417
+13:19:31.854 Get citation using style: bibtex citethis.js:formatted:444
+13:19:31.855 false false citethis.js:formatted:244
+13:19:31.855
+Object { author: "", year: "2020", title: "Toolbox - Extension / Cite This", url: "about:devtools-toolbox?type=extension&id=760a5cc6fac33adf33634c3cb3a6c2b9a46ac531%40temporary-addon", lastAccessed: "May 04, 2020", lastUpdated: "May 04, 2020" }
+citethis.js:formatted:244
+13:19:31.856 Error: Source lacks all required BibTex data: author, year, journal citethis.js:formatted:478
+13:19:31.953 executed content script citethis.js:formatted:399
+13:19:32.172 updateCitation citethis.js:formatted:352
+13:19:32.173 updateCitation complete citethis.js:formatted:362
+13:19:32.177 updateCitation citethis.js:formatted:352
+13:19:32.179 updateCitation complete citethis.js:formatted:362
+13:19:32.184 _setPageVariables citethis.js:formatted:427
+13:19:32.185 got last accessed 2 citethis.js:formatted:496
+13:19:32.185
+Object { what: "Calling site specific func", funcName: "getTitle", tab: {…} }
+citethis.js:formatted:469
+13:19:32.187 set page variables with opts citethis.js:formatted:415
+13:19:32.187
+Object { year: 2020, accessed: "May 04, 2020", updated: "May 04, 2020", author: null, title: "Usability testing", url: "https://en.wikipedia.org/wiki/Usability_testing" }
+citethis.js:formatted:417
+13:19:32.189 Get citation using style: bibtex citethis.js:formatted:444
+13:19:32.190 false false citethis.js:formatted:244
+13:19:32.191
+Object { author: "", year: "2020", title: "Usability testing", url: "https://en.wikipedia.org/wiki/Usability_testing", lastAccessed: "May 04, 2020", lastUpdated: "May 04, 2020" }
+citethis.js:formatted:244
+13:19:32.202 Error: Source lacks all required BibTex data: author, year, journal citethis.js:formatted:478
+13:19:32.212
+Object { what: "Got fields from execute script", fields: {…} }
+citethis.js:formatted:212
+13:19:32.213 got last accessed 2 citethis.js:formatted:496
+13:19:32.213 set page variables with opts citethis.js:formatted:415
+13:19:32.214
+Object { year: 2020, accessed: "May 04, 2020", updated: "May 04, 2020", author: "", url: "https://en.wikipedia.org/wiki/Usability_testing", title: "Usability testing - Wikipedia" }
+citethis.js:formatted:417
+13:19:32.214 Get citation using style: bibtex citethis.js:formatted:444
+13:19:32.215 false false citethis.js:formatted:244
+13:19:32.215
+Object { author: "", year: "2020", title: "Usability testing - Wikipedia", url: "https://en.wikipedia.org/wiki/Usability_testing", lastAccessed: "May 04, 2020", lastUpdated: "May 04, 2020" }
+citethis.js:formatted:244
+13:19:32.216 executed content script citethis.js:formatted:399
+13:19:32.708 updateCitation citethis.js:formatted:352
+13:19:33.716 updateCitation complete citethis.js:formatted:362
+13:19:34.562 citation style changed to apa citethis.js:formatted:291
+13:19:34.562 updateCitation citethis.js:formatted:352
+13:19:35.566 updateCitation complete citethis.js:formatted:362
+13:19:35.569 _setPageVariables citethis.js:formatted:427
+13:19:35.569 got last accessed 2 citethis.js:formatted:496
+13:19:35.570
+Object { what: "Calling site specific func", funcName: "getTitle", tab: {…} }
+citethis.js:formatted:469
+13:19:35.570 set page variables with opts citethis.js:formatted:415
+13:19:35.571
+Object { year: 2020, accessed: "May 04, 2020", updated: "May 04, 2020", author: null, title: "Usability testing", url: "https://en.wikipedia.org/wiki/Usability_testing" }
+citethis.js:formatted:417
+13:19:35.571 Get citation using style: apa citethis.js:formatted:444
+13:19:35.572 Generated citation... citethis.js:formatted:435
+13:19:35.572 citation style changed to bibtex citethis.js:formatted:291
+13:19:35.573 updateCitation citethis.js:formatted:352
+13:19:35.579
+Object { what: "Got fields from execute script", fields: {…} }
+citethis.js:formatted:212
+13:19:35.580 got last accessed 2 citethis.js:formatted:496
+13:19:35.580 set page variables with opts citethis.js:formatted:415
+13:19:35.580
+Object { year: 2020, accessed: "May 04, 2020", updated: "May 04, 2020", author: "", url: "https://en.wikipedia.org/wiki/Usability_testing", title: "Usability testing - Wikipedia" }
+citethis.js:formatted:417
+13:19:35.581 Get citation using style: bibtex citethis.js:formatted:444
+13:19:35.581 false false citethis.js:formatted:244
+13:19:35.581
+Object { author: "", year: "2020", title: "Usability testing - Wikipedia", url: "https://en.wikipedia.org/wiki/Usability_testing", lastAccessed: "May 04, 2020", lastUpdated: "May 04, 2020" }
+citethis.js:formatted:244
+13:19:35.582 executed content script citethis.js:formatted:399
+13:19:36.190 update is already pending 2 citethis.js:formatted:347
+13:19:36.574 updateCitation complete citethis.js:formatted:362
+13:19:36.666 _setPageVariables citethis.js:formatted:427
+13:19:36.667 got last accessed 2 citethis.js:formatted:496
+13:19:36.668 No host available citethis.js:formatted:501
+13:19:36.668 no domain available citethis.js:formatted:505
+13:19:36.669 set page variables with opts citethis.js:formatted:415
+13:19:36.669
+Object { year: 2020, accessed: "May 04, 2020", updated: "May 04, 2020", author: null, title: "Toolbox - Extension / Cite This", url: "about:devtools-toolbox?type=extension&id=760a5cc6fac33adf33634c3cb3a6c2b9a46ac531%40temporary-addon" }
+citethis.js:formatted:417
+13:19:36.670 Get citation using style: bibtex citethis.js:formatted:444
+13:19:36.670 false false citethis.js:formatted:244
+13:19:36.670
+Object { author: "", year: "2020", title: "Toolbox - Extension / Cite This", url: "about:devtools-toolbox?type=extension&id=760a5cc6fac33adf33634c3cb3a6c2b9a46ac531%40temporary-addon", lastAccessed: "May 04, 2020", lastUpdated: "May 04, 2020" }
+citethis.js:formatted:244
+13:19:36.675 executed content script citethis.js:formatted:399
+13:19:36.676 Error: Source lacks all required BibTex data: author, year, journal citethis.js:formatted:478
+13:19:36.715 updateCitation citethis.js:formatted:352
+13:19:37.718 updateCitation complete citethis.js:formatted:362
+13:20:09.741 updateCitation citethis.js:formatted:352
+13:20:09.742 updateCitation complete citethis.js:formatted:362
+13:20:10.889 Navigated to chrome://devtools/content/shared/webextension-fallback.html
+13:20:10.798 Webconsole context has changed

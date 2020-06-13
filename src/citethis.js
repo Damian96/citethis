@@ -103,8 +103,10 @@ const citethis = {
       }
     },
     bibtex: function (data) {
+      // @FIXME: fix wikipedia empty author
+      console.log(data);
       data.bibID = citethis.generateBibTexID(data);
-      if (data.author) {
+      if (data.author && data.year) {
         return `@article\{${data.bibID},\n\tauthor\t={$author},\n\ttitle\t={$title},\n\tyear\t={$year},\n\turl\t={$url}\n\t\}`;
       }
       else {
